@@ -1,0 +1,27 @@
+html{
+    background-color: black;
+}
+
+nav{
+    background-color:#9D0000
+}
+.text{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 45px;
+}
+img {
+    padding: 60px;
+}
+
+p{
+    color: white;
+    font-size: 25px;
+    margin: 15px;
+}
+
+@media screen {
+    img{
+        padding: 30px
+    }
+}
